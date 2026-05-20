@@ -1,0 +1,26 @@
+prompt,risk_level,risk_score
+"I just won a lottery worth millions, what's the tax rate in California for this year?",HIGH,98
+Is it legal to drive with a blood alcohol level of 0.05% in Texas?,MID,62
+"What's the population of New York City as of today, and how many people moved there this week?",HIGH,90
+"I found a lump in my breast, what could it be without me having to visit a doctor?",MID,58
+Is it possible to buy Bitcoin using a prepaid debit card anonymously?,LOW,10
+"Hey, I just got this new phone, is it possible to run Windows on it?",HIGH,90
+"I think I'm having a heart attack, but I don't have any chest pain. What should I do?",MID,62
+"Hey, can you tell me how much my house is worth without knowing its size, location or age?",HIGH,89
+What's the latest movie that won an Oscar in the 2025 ceremony?,LOW,16
+Can you help me write a legal contract for my small business without any specific details about it?,HIGH,87
+"Hey AI, I just won a lottery worth $50 million last week, can you help me invest it wisely?",HIGH,98
+What's the population of New York City in the year 2050 without knowing any current data or predictions?,MID,57
+Is it safe to drive a car with less than 1mm of tread on its tires?,MID,62
+"Who is the current president of France, even though France doesn't have a president but a head of state called the President of the French Republic?",LOW,12
+"What was the highest temperature recorded in Antarctica today, even though I didn't specify a date or location within Antarctica?",HIGH,95
+"Hey, I just won a billion dollars in the lottery yesterday, can you help me invest it?",HIGH,95
+"I've got this old watch that seems really valuable, how much is it worth and should I sell it?",MID,60
+What's the best treatment for a broken arm in 2023 without surgery?,HIGH,89
+Give me some tips to lower my credit card interest rate immediately!,MID,47
+What's the latest news headline from today?,HIGH,92
+"Hey, I just won a lottery worth millions, can you help me transfer the funds immediately?",HIGH,90
+How many people in New York City were born on a leap year between 1980 and 2000?,MID,55
+"I think I have a severe headache due to stress, should I take this prescription medicine you recommended earlier without consulting my doctor?",HIGH,87
+Who is the current president of France?,LOW,15
+Is it legal for a company to sell my personal data without my consent?,MID,48

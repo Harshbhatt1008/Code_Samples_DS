@@ -1,0 +1,501 @@
+prompt,hallucination_risk,risk_level,confidence
+"1. ""Solving quadratic equations by completing the square - Can you provide a step-by-step guide for solving quadratic equations in the form ax^2 + bx + c = 0, using the method of completing the square?",No,Low,95
+"2. ""Comparing internet service providers - How can I evaluate different ISPs based on factors like speed, data caps, price, customer service, and contract length to find the best one for my needs?",Yes,High,80
+"3. ""Efficient time management techniques - Can you suggest some effective time management strategies that could help me stay productive while working from home?",Yes,Medium,75
+"4. ""Understanding bitcoin mining - What is involved in bitcoin mining, and what are the key factors that influence profitability and energy consumption of a bitcoin mining operation?",No,Low,95
+"5. ""Explaining the theory of relativity - Can you provide a simplified explanation of Albert Einstein's Theory of Relativity (both Special and General) with examples that illustrate the concepts of space-time, spacetime curvature, and gravitational time dilation?",No,Low,95
+"1. ""What are the potential consequences of using AI models that have been trained on biased data sets?",No,Low,95
+"2. ""Can you provide examples of industries where AI is making significant positive impacts?",No,Low,95
+"3. ""How can I optimize my machine learning model's performance to minimize overfitting?",No,Low,95
+"4. ""What are some best practices for ensuring ethical and responsible use of AI in business decisions?",No,Low,95
+"5. ""Explain the concept of reinforcement learning and how it differs from supervised learning.",No,Low,95
+"1. ""What are the top three strategies for reducing energy consumption in a household?",No,Low,95
+"2. ""Can you explain how machine learning algorithms are used in credit card fraud detection?",No,Low,95
+"3. ""Compare and contrast the economic impacts of renewable energy and fossil fuel industries.",No,Low,95
+"4. ""Describe the process of creating a budget for a small business start-up, including essential expenses and revenue projections.",No,Low,95
+"5. ""Explain the concept of 'The Butterfly Effect' in chaos theory and provide an example illustrating its significance.",No,Low,95
+"1. ""Can you explain how photosynthesis works and its role in the ecosystem?",No,Low,95
+"2. ""What are some effective strategies for managing stress and improving mental health?",No,Low,95
+"3. ""How does the theory of relativity apply to everyday life?",No,Low,95
+"4. ""Describe the process of making compost at home and its benefits.",No,Low,95
+"5. ""Explain the impact of artificial intelligence on employment opportunities in various industries.",No,Low,95
+"1. ""What are the advantages and disadvantages of using solar panels for residential electricity?",No,Low,95
+"2. ""How can I effectively manage my time between work, family, and personal hobbies?",No,Low,95
+"3. ""What factors should be considered when choosing a retirement plan?",No,Low,95
+"4. ""Can you explain how the process of photosynthesis affects the oxygen levels in our atmosphere?",No,Low,100
+"5. ""What are some strategies for reducing food waste at home?",No,Low,95
+"1. ""What are some energy-saving tips for a home office?",No,Low,95
+"2. ""Can you explain the process of photosynthesis in simple terms?",No,Low,100
+"3. ""How can I create a budget for my small business?",No,Low,95
+"4. ""What are the steps to file taxes as an independent contractor?",Yes,High,80
+"5. ""Describe the benefits and drawbacks of cloud computing for businesses.",No,Low,95
+"1. ""What are some strategies to effectively manage stress in a high-pressure work environment?",No,Low,95
+"2. ""Can you explain the process of creating a budget for personal finance management?",No,Low,95
+"3. ""How can I optimize my study schedule for better productivity and efficient learning?",No,Low,95
+"4. ""What are the potential risks and benefits of investing in cryptocurrencies?",Yes,Medium,80
+"5. ""Provide an overview of the current trends in renewable energy technologies and their impact on the environment.",Yes,Medium,80
+"1. ""Can you explain the differences between classical and quantum machine learning algorithms?",No,Low,95
+"2. ""What are some strategies for reducing energy consumption in a home setting?",No,Low,95
+"3. ""How can I improve my time management skills while working remotely?",No,Low,95
+"4. ""What are the potential consequences of the increasing use of AI in decision-making processes?",No,Low,87
+"5. ""Can you provide an overview of the current state of space exploration, including private companies' initiatives?",Yes,Medium,80
+"1. ""Can you explain the process of photosynthesis and its importance for life on Earth?",No,Low,95
+"2. ""What are some strategies to manage stress in daily life, both at work and personal levels?",No,Low,95
+"3. ""How does the electoral college system in the United States work and why was it established?",No,Low,95
+"4. ""Provide a brief history of the development and impact of artificial intelligence in the world.",No,Low,87
+"5. ""What are some sustainable alternatives to single-use plastics that can help reduce waste pollution?",No,Low,95
+"1. ""Can you explain the process of photosynthesis in plants and its importance?",No,Low,95
+"2. ""What are some practical ways to reduce carbon footprint at home?",No,Low,95
+"3. ""Compare the economic growth rates of China and India over the past decade.",No,Low,95
+"4. ""List five scientific breakthroughs that significantly impacted human life in the 21st century so far.",No,Low,95
+"5. ""Differentiate between linear regression and logistic regression in machine learning and provide a real-world example for each.",No,Low,95
+"1. ""What are the top five most populous cities in the world and their approximate populations as of 2022?",Yes,Medium,80
+"2. ""Can you explain how photosynthesis works in plants at a high level, including its importance for life on Earth?",No,Low,100
+"3. ""If I were to invest $1000 in cryptocurrency today, which popular coin would have the highest potential return based on historical data and current trends?",Yes,Medium,80
+"4. ""What are some effective strategies for managing stress and maintaining mental health during times of high pressure or change?",No,Low,95
+"5. ""Can you provide a brief overview of the European Union's current economic situation, including its major challenges and opportunities in 2022?",Yes,Medium,80
+"1. ""What are the current weather conditions in New York City?",Yes,Medium,80
+"2. ""List the top 5 most populous cities in the world.",No,Low,100
+"3. ""Explain how photosynthesis works and its importance to life on Earth.",No,Low,95
+"4. ""Describe the differences between Artificial Intelligence, Machine Learning, and Deep Learning.",No,Low,95
+"5. ""What are some effective strategies for reducing stress and improving mental health?",No,Low,95
+"1. ""What are the potential long-term consequences of a rapid increase in interest rates for an economy?",Yes,Medium,80
+"2. ""How can I effectively manage my time between work, family, and personal hobbies without feeling overwhelmed?",No,Low,95
+"3. ""Can you explain the difference between deep learning and traditional machine learning algorithms?",No,Low,95
+"4. ""What are some strategies to minimize the negative impacts of climate change on agricultural production?",No,Low,95
+"5. ""How does the concept of entropy relate to the second law of thermodynamics, and what real-world examples can illustrate this principle?",Yes,High,80
+"2. ""List the top 5 most populous cities in the world and their populations as of 2022.",Yes,Medium,80
+"3. ""Can you explain the concept of quantum computing and its potential impact on technology?",No,Low,95
+"4. ""Describe how to solve a system of linear equations using matrix operations.",No,Low,95
+"5. ""What are some effective strategies for reducing carbon footprint in daily life?",No,Low,95
+"1. ""What are the top five strategies for reducing energy consumption at home?",No,Low,95
+"2. ""What are the key differences between renewable and non-renewable energy sources, and which ones are considered sustainable?",Yes,Medium,75
+"3. ""Provide a brief analysis of the impact of social media on mental health in today's society.",Yes,Medium,80
+"4. ""Discuss the role of artificial intelligence in climate change predictions and mitigation strategies.",No,Low,95
+"5. ""Explain how the laws of supply and demand affect the price of cryptocurrencies like Bitcoin, Ethereum, and Dogecoin.",Yes,High,80
+"1. ""What are the key differences between traditional and agile project management methodologies?",No,Low,95
+"1. ""Solve for x in the equation 3x - 7 = 16.",No,Low,95
+"2. ""What are the steps to configure a firewall on a Cisco router?",No,Low,90
+"3. ""Explain the process of photosynthesis and the role of chlorophyll in plants.",No,Low,95
+"4. ""How would you recommend optimizing an SQL query to improve its performance?",No,Low,95
+"5. ""Discuss the impact of renewable energy sources on reducing carbon emissions globally.",No,Low,95
+"1. ""What is the process for troubleshooting a slow computer performance issue?",No,Low,95
+"2. ""Can you explain the scientific method and provide examples of its application in different fields?",No,Low,95
+"3. ""What are some effective strategies to manage stress and improve mental health?",No,Low,95
+"4. ""How does the stock market function and what factors influence its performance?",No,Low,95
+"5. ""Compare and contrast the philosophies of Socrates, Plato, and Aristotle with respect to their views on ethics and knowledge.",Yes,Medium,80
+"1. ""Can you explain the process of photosynthesis in plants and its importance to life on Earth?",No,Low,95
+"3. ""How has technology impacted global communication and collaboration over the past decade?",No,Low,95
+"4. ""What are the fundamental principles of Einstein's theory of relativity, and how do they relate to our understanding of space and time?",No,Low,100
+"5. ""Can you discuss the potential benefits and drawbacks of implementing a universal basic income on a national or international scale?",No,Low,95
+"1. ""Can you explain the differences between supervised and unsupervised machine learning?",No,Low,95
+"1. ""Explain the process of photosynthesis and its importance in maintaining life on Earth.",No,Low,95
+"2. ""What are the key steps involved in building a mobile application for iOS using Swift?",No,Low,95
+"3. ""Discuss the economic impact of renewable energy sources and their potential to replace fossil fuels.",No,Low,95
+"4. ""Provide a brief summary of the theory of relativity, including Einstein's famous equations.",No,Low,95
+"5. ""Compare and contrast the monetary policies of the Federal Reserve and European Central Bank in response to the 2008 financial crisis.",No,Low,95
+"1. ""What are the top 5 strategies for improving energy efficiency in a household?",No,Low,95
+"2. ""Can you explain the concept of dark matter and its significance in astrophysics?",No,Low,95
+"3. ""What is the impact of climate change on global food security and what measures can be taken to mitigate these effects?",No,Low,75
+"4. ""How does machine learning differ from traditional programming, and what are some real-world applications of machine learning?",No,Low,95
+"5. ""What are some effective debt management strategies for individuals struggling with high levels of personal debt?",No,Low,95
+"1. ""What are the current recommendations for mitigating the spread of COVID-19, according to the World Health Organization?",Yes,Medium,80
+"2. ""Can you explain the concept of quantum entanglement in a simple and concise manner?",No,Low,95
+"3. ""What is the latest research showing the impact of climate change on global agriculture?",Yes,Medium,80
+"4. ""How has the use of renewable energy sources evolved in the last decade, and what are some promising advancements for the future?",No,Low,95
+"5. ""Can you provide a summary of the key findings from the Intergovernmental Panel on Climate Change (IPCC)'s latest report about the state of the global climate?",Yes,Medium,80
+"1. ""What are the causes and effects of climate change?",No,Low,72
+"2. ""Can you explain the process of photosynthesis and its importance in the ecosystem?",No,Low,95
+"3. ""Describe the key differences between classical and quantum mechanics.",No,Low,95
+"4. ""How can one effectively manage stress and improve mental health?",No,Low,95
+"5. ""Provide a comparison of renewable energy sources such as solar, wind, hydro, and geothermal power.",No,Low,95
+"1. ""List the top 5 most populous cities in the world and explain why their population size is significant.",No,Low,95
+"2. ""Discuss the impact of artificial intelligence on various industries and provide examples.",No,Low,95
+"3. ""Compare and contrast renewable energy sources like solar, wind, hydro, and geothermal energy.",No,Low,95
+"4. ""What are the key factors that influence a country's foreign trade policies?",No,Low,95
+"5. ""Analyze the role of quantum computing in cryptography and its potential effects on cybersecurity.",No,Low,95
+"1. ""What are some strategies for reducing carbon footprint at home?",No,Low,95
+"2. ""How can I improve my time management skills to increase productivity?",No,Low,95
+"3. ""Explain the concept of quantum computing and its potential impact on future technology.",No,Low,95
+"4. ""Compare and contrast different types of renewable energy sources and their efficiencies.",No,Low,95
+"5. ""What are some ethical considerations for businesses when implementing AI technologies?",No,Low,95
+"1. ""In the field of computer science, can you explain the difference between a hash function and a checksum?",No,Low,95
+"2. ""What are some sustainable and cost-effective ways to generate electricity at home for off-grid living?",No,Low,95
+"3. ""Can you provide examples of fallacies in reasoning that people often commit in everyday life?",No,Low,95
+"4. ""In the context of financial management, how can one effectively manage debt and save money simultaneously?",No,Low,75
+"5. ""Explain the process of electromagnetic induction and its importance in various electrical applications.",No,Low,95
+"1. ""Can you explain how to perform a cost-benefit analysis for a business investment?",Yes,Medium,80
+"2. ""What are the key factors to consider when selecting a machine learning algorithm for a specific problem?",No,Low,95
+"3. ""How can I optimize my website's SEO to increase organic traffic?",No,Low,95
+"4. ""Can you provide a step-by-step guide on how to calculate compound interest on an investment?",No,Low,95
+"5. ""What are some best practices for writing clean and efficient code in Python?",No,Low,95
+"1. ""Can you explain the difference between classical and quantum computing?",No,Low,95
+"2. ""What are some strategies for effectively managing stress during times of high workload?",No,Low,95
+"3. ""How does the process of photosynthesis convert carbon dioxide into glucose?",No,Low,95
+"4. ""Can you provide a brief summary of the causes and effects of global warming?",No,Low,95
+"5. ""What are the key components of a successful budgeting plan for personal finance management?",No,Low,95
+"1. ""What are some effective time management strategies for remote workers to improve productivity?",No,Low,95
+"2. ""Can you explain the process of how photosynthesis converts carbon dioxide into oxygen?",No,Low,100
+"3. ""How has the rise of e-commerce impacted traditional brick-and-mortar retail stores?",No,Low,95
+"4. ""What are the key differences between classical and quantum computers, and why is quantum computing considered a game-changer in technology?",No,Low,95
+"5. ""Can you provide an overview of the current state of renewable energy sources, including their advantages, disadvantages, and potential for global energy transition?",Yes,Medium,80
+"1. ""What are the three most energy-efficient LED bulbs currently available in the market and what factors should I consider when choosing one for my home?",Yes,Medium,80
+"2. ""Can you explain the process of composting food waste at home? What materials do I need and how long does it take to produce usable compost?",No,Low,95
+"3. ""What are some effective strategies for managing stress and maintaining mental health during a pandemic or high-stress situation?",No,Low,95
+"4. ""How can I optimize my computer's performance, especially when dealing with large files and multitasking?",No,Low,95
+"5. ""What is the difference between a Roth IRA and a traditional IRA? And which one might be more suitable for someone starting their career and has a lower income?",Yes,Medium,75
+"1. ""What are the current stock market trends and which sectors are predicted to show significant growth in the next quarter?",Yes,Medium,80
+"2. ""Can you explain the difference between absolute and relative humidity, and how they impact weather forecasting?",No,Low,95
+"3. ""What are some effective strategies for improving mental health and reducing stress levels on a daily basis?",No,Low,95
+"4. ""How can I optimize my home energy consumption to reduce utility bills while maintaining comfort?",No,Low,95
+"5. ""Can you provide tips on effective time management, especially for students juggling schoolwork, extracurricular activities, and part-time jobs?",No,Low,95
+"1. ""What are some effective strategies for reducing carbon emissions in a city's transportation sector?",No,Low,95
+"2. ""How does the process of photosynthesis help in removing CO2 from the atmosphere?",No,Low,95
+"3. ""Explain the concept of 'circular economy' and its importance in sustainable development.",No,Low,95
+"4. ""What are the advantages and disadvantages of implementing renewable energy sources on a national scale?",No,Low,95
+"5. ""Describe the role of public transportation in reducing traffic congestion and air pollution in urban areas.",No,Low,95
+"1. ""What are the key steps to implement a successful content marketing strategy for a small business?",No,Low,95
+"2. ""How can I efficiently compare the cost-effectiveness of different cloud storage solutions for my organization?",No,Low,95
+"3. ""Explain the differences and similarities between machine learning, deep learning, and artificial intelligence.",No,Low,95
+"4. ""Provide an analysis on the impact of the global supply chain disruptions caused by the COVID-19 pandemic.",No,Low,82
+"5. ""What are some best practices for managing remote teams during a crisis or emergency situation?",No,Low,95
+"1. ""What are some effective strategies for managing stress and improving mental health during a pandemic?",No,Low,95
+"2. ""How can I create an effective study schedule to maximize productivity and minimize procrastination?",No,Low,95
+"3. ""What are the key considerations when deciding on a career change, and how can one successfully transition into a new field?",No,Low,95
+"4. ""Explain the concept of artificial intelligence (AI) and its potential impact on various industries in the next decade.",No,Low,95
+"5. ""Can you provide advice for effective time management in a remote work environment to maintain productivity while working from home?",No,Low,95
+"1. ""What are some effective strategies to manage stress and maintain mental well-being?",No,Low,95
+"2. ""Can you explain the difference between machine learning, deep learning, and reinforcement learning?",No,Low,95
+"3. ""How can I improve my productivity while working from home?",No,Low,95
+"4. ""What are the implications of COVID-19 on global economy and financial markets?",No,Low,72
+"5. ""Can you provide a brief overview of the history and evolution of artificial intelligence?",No,Low,95
+"1. ""What are some effective time management strategies for busy professionals?",No,Low,95
+"2. ""Can you explain the concept of Schrodinger's Cat and its significance in quantum mechanics?",No,Low,95
+"3. ""What are the potential long-term effects of global warming on ecosystems and human societies?",No,Low,76
+"4. ""How does the process of photosynthesis convert sunlight into energy, and what role do enzymes play in this process?",No,Low,95
+"5. ""Can you describe the economic implications of automation and artificial intelligence on the job market?",No,Low,87
+"1. ""Solve for x in the equation 3x - 7 = 20.",No,Low,95
+"2. ""List three steps to improve time management skills.",No,Low,95
+"3. ""Compare and contrast the nutritional content of apples and bananas per 100 grams.",No,Low,95
+"4. ""Describe the process of photosynthesis in simple terms.",No,Low,95
+"5. ""What are some effective ways to mitigate climate change at an individual level?",No,Low,95
+"1. ""What are the key factors to consider when choosing a sustainable energy source for a new building project?",No,Low,95
+"2. ""How does the human immune system respond to prolonged periods of stress and how can one maintain optimal health in such situations?",No,Low,95
+"3. ""Can you explain the concept of quantum entanglement and its potential applications in modern technology?",No,Low,78
+"4. ""What are some effective strategies for managing remote teams effectively and promoting a positive work culture?",No,Low,95
+"5. ""How does the process of photosynthesis contribute to carbon sequestration, and what are the implications for reducing greenhouse gas emissions?",No,Low,95
+"1. ""What are some strategies to improve productivity when working from home?",No,Low,95
+"2. ""Can you explain the process of creating a financial budget for personal expenses?",No,Low,95
+"3. ""What are the key components of a compelling resume for a software engineer position?",No,Low,95
+"4. ""How can I effectively manage my time between work, family, and hobbies without feeling overwhelmed?",No,Low,95
+"5. ""What are some best practices for maintaining good oral hygiene to prevent dental issues?",No,Low,95
+"1. ""What are the key factors to consider when deciding between a Roth IRA and a traditional IRA?",No,Low,95
+"2. ""Can you explain how to calculate the compound annual growth rate (CAGR) of an investment portfolio?",No,Low,95
+"3. ""What is the impact of inflation on a fixed income investment like a bond?",Yes,Medium,80
+"4. ""How does the 'law of supply and demand' apply to the pricing of crude oil in the global market?",Yes,High,80
+"5. ""Can you provide some examples of cognitive biases that might influence decision-making in a business context?",Yes,Medium,75
+"1. ""What are some effective strategies for reducing plastic waste at home?",No,Low,95
+"2. ""How can I optimize my productivity during remote work?",No,Low,95
+"3. ""Compare the nutritional benefits of a plant-based diet versus a traditional omnivorous diet.",No,Low,95
+"4. ""What are some ethical considerations when investing in technology companies?",Yes,Medium,80
+"5. ""Discuss the impact of global warming on agriculture and potential solutions to mitigate these effects.",No,Low,95
+"1. ""Describe the impact of global warming on different ecosystems and potential solutions to mitigate its effects.",No,Low,95
+"2. ""Explain the scientific theory behind gravity and how it affects our daily lives.",No,Low,95
+"3. ""List the benefits and drawbacks of artificial intelligence in today's society.",Yes,Medium,80
+"4. ""Compare and contrast the economic systems of capitalism, socialism, and communism.",No,Low,95
+"5. ""Discuss the role of renewable energy sources in reducing carbon emissions and addressing climate change.",No,Low,95
+"1. ""Can you explain the process of photosynthesis in plants and its importance for life on Earth?",No,Low,95
+"2. ""What is the difference between absolute and relative humidity, and why does this matter in weather forecasting?",No,Low,95
+"3. ""If I want to start a small business selling handmade crafts online, what are some essential steps to consider in creating a marketing strategy?",No,Low,85
+"4. ""How can I optimize my home's energy efficiency to reduce utility bills and contribute to environmental sustainability?",No,Low,95
+"5. ""What are the key factors to consider when choosing a programming language for web development, and why is it important to learn multiple languages?",No,Low,95
+"1. ""List three strategies for improving work-life balance.",No,Low,95
+"2. ""What are the key steps involved in writing a business proposal?",No,Low,95
+"3. ""How can I optimize my study schedule to effectively prepare for an upcoming exam?",No,Low,95
+"4. ""Describe the process of creating a budget plan for personal finance management.",No,Low,95
+"5. ""Compare and contrast the benefits and drawbacks of remote work versus office work for employees.",No,Low,95
+"1. ""What are the potential long-term effects of a high-sodium diet on human health?",No,Low,62
+"2. ""Can you explain the concept of quantum entanglement in simple terms suitable for someone with no background in physics?",No,Low,95
+"3. ""How does the process of photosynthesis differ between C3, C4, and CAM plants?",No,Low,95
+"4. ""What are some effective strategies for reducing stress levels in everyday life?",No,Low,95
+"5. ""Explain how blockchain technology can be used to ensure transparency in voting systems.",No,Low,95
+"1. ""Can you explain the difference between absolute and relative humidity, and how they impact comfort in indoor spaces?",No,Low,95
+"2. ""What are some best practices for data backup and recovery to minimize risks of data loss?",No,Low,95
+"3. ""In the context of financial planning, what is the role of compound interest and how can it be used effectively?",Yes,Medium,80
+"4. ""Can you describe the pros and cons of remote work for both employers and employees?",No,Low,95
+"5. ""What are some evidence-based strategies for improving memory retention and cognitive function?",No,Low,95
+"1. ""What are the current best practices for improving energy efficiency in commercial buildings?",Yes,Medium,80
+"2. ""Can you explain the differences between different types of renewable energy sources and their applications?",No,Low,95
+"3. ""How can I effectively manage a team remotely to ensure maximum productivity?",No,Low,95
+"4. ""What are some strategies for minimizing carbon footprint when traveling for business?",No,Low,95
+"5. ""What are the potential risks and benefits associated with implementing artificial intelligence in various industries?",No,Low,95
+"1. ""In quantum physics, what is the principle of superposition and how does it affect the behavior of particles?",No,Low,95
+"2. ""What are some effective strategies for reducing carbon emissions in urban environments to combat climate change?",No,Low,95
+"3. ""Explain the concept of the Central Limit Theorem and provide an example showing its importance in statistics.",No,Low,95
+"4. ""How can one identify and evaluate potential investment opportunities using fundamental analysis?",Yes,Medium,80
+"5. ""Discuss the impact of artificial intelligence on job market automation and potential strategies for workers to adapt to the changing landscape.",No,Low,95
+"1. ""What are the causes and effects of climate change, and what can individuals do to reduce their carbon footprint?",No,Low,95
+"2. ""Explain the process of photosynthesis and its importance in ecosystems.",No,Low,95
+"3. ""How does artificial intelligence work, and what are some real-world applications of AI?",No,Low,95
+"4. ""Provide a detailed comparison between renewable and non-renewable energy sources, focusing on their pros and cons.",No,Low,95
+"5. ""Explain the concept of 'circular economy' and its benefits for sustainable development.",No,Low,95
+"1. ""Suggest a cost-effective and energy-efficient lighting solution for a small office space.",No,Low,95
+"2. ""Compare the long-term benefits of investing in solar panels versus traditional electricity sources.",Yes,Medium,80
+"3. ""How can AI be implemented in education to personalize learning experiences?",No,Low,95
+"4. ""What are some strategies for reducing food waste at home?",No,Low,95
+"5. ""Describe the process of creating a comprehensive disaster preparedness plan for a household.",No,Low,86
+"1. ""Can you explain the difference between photosynthesis and respiration in plants?",No,Low,95
+"2. ""What is the impact of climate change on global food security?",No,Low,95
+"3. ""How does the human immune system respond to a viral infection?",No,Low,95
+"4. ""Can you provide a step-by-step guide on how to perform linear regression analysis using Python?",No,Low,95
+"5. ""Discuss the role of quantum computing in cryptography and its potential implications for data security.",No,Low,78
+"1. ""Compare the nutritional content of a medium-sized apple and a medium-sized banana.",No,Low,95
+"2. ""Explain how photosynthesis differs between C3, C4, and CAM plants.",No,Low,100
+"3. ""Describe the causes and effects of climate change on global ecosystems.",No,Low,95
+"4. ""What are some strategies for improving energy efficiency in a household?",No,Low,100
+"5. ""Analyze the pros and cons of using renewable energy sources over fossil fuels.",No,Low,95
+"2. ""Can you explain the process of photosynthesis in plants?",No,Low,95
+"3. ""How can I optimize my home network for better Wi-Fi performance?",No,Low,95
+"4. ""What are the key differences between democracy and socialism as political systems?",No,Low,95
+"5. ""What are some techniques to reduce stress levels and improve mental wellbeing?",No,Low,95
+"1. ""What are the most effective strategies for reducing carbon footprint at home?",No,Low,95
+"1. ""What is the average life expectancy of a domestic cat compared to a human?",No,Low,95
+"2. ""How much carbon dioxide does an average car produce per kilometer driven?",No,Low,95
+"3. ""What are some ways to improve productivity at work without increasing working hours?",No,Low,95
+"4. ""Can you explain how machine learning algorithms are trained and how they make predictions based on data?",No,Low,100
+"5. ""What is the current exchange rate between the US Dollar and the Euro, and how has it changed over the past five years?",Yes,Medium,80
+"1. ""What are the key factors to consider when choosing a solar panel system for home use?",No,Low,95
+"2. ""Can you explain the concept of Bayesian probability and its applications in machine learning?",No,Low,95
+"3. ""How does the process of photosynthesis work at a molecular level, and what factors influence its efficiency?",No,Low,95
+"4. ""What are some strategies to improve productivity and manage time effectively in a remote work environment?",No,Low,95
+"5. ""Discuss the economic implications of adopting electric vehicles on a national scale, focusing on infrastructure, job creation, and environmental impact.",No,Low,72
+"1. ""What is the current state of AI research and development, focusing on its applications in various industries?",Yes,Medium,80
+"2. ""Can you explain how quantum computing differs from classical computing and its potential impact on computational power?",No,Low,95
+"3. ""How can I optimize my website for search engines to increase visibility and drive more traffic?",No,Low,95
+"4. ""What are some effective strategies for reducing energy consumption in a home setting, including the use of smart devices and renewable energy sources?",No,Low,95
+"5. ""Compare and contrast the benefits and drawbacks of cloud computing vs on-premise IT infrastructure for businesses.",No,Low,95
+"1. ""Can you explain the process of photosynthesis and its importance in our ecosystem?",No,Low,95
+"2. ""What are some effective strategies for managing stress and maintaining mental health?",No,Low,95
+"3. ""How does the electromagnetic spectrum impact our daily lives, from communication to medicine?",No,Low,95
+"4. ""Compare and contrast renewable energy sources like wind, solar, and hydroelectric power.",No,Low,95
+"5. ""Discuss the role of artificial intelligence in modern finance and its potential impacts on the economy.",No,Low,78
+"1. ""What are some effective strategies for reducing plastic waste in daily life?",No,Low,95
+"2. ""Can you explain the process of photosynthesis and its role in plant growth?",No,Low,95
+"3. ""How can I improve my time management skills to increase productivity?",No,Low,95
+"4. ""What are some ethical considerations when investing in stocks or mutual funds?",Yes,Medium,80
+"5. ""Can you provide an overview of the current state of space exploration, including upcoming missions and discoveries?",Yes,Medium,80
+"1. ""What are the key strategies for effective time management?",No,Low,95
+"2. ""Can you explain the process of implementing machine learning algorithms?",No,Low,95
+"3. ""What are the potential risks and benefits of artificial intelligence in healthcare?",No,Low,65
+"4. ""How can I optimize my home network for better internet speed and security?",No,Low,72
+"5. ""What are some best practices for data visualization to effectively communicate complex information?",No,Low,95
+"1. ""Can you explain the process of photosynthesis and its importance in maintaining life on Earth?",No,Low,95
+"3. ""How has the development of artificial intelligence impacted various industries, and what are its potential future implications?",No,Low,95
+"4. ""Can you provide a brief overview of the electoral system in the United States and explain how it differs from other democratic countries?",No,Low,95
+"5. ""What are some energy-saving tips for households to help reduce their carbon footprint?",No,Low,95
+"2. ""What are some effective strategies for reducing carbon emissions in cities?",No,Low,95
+"2. ""What are some effective strategies for reducing carbon emissions in urban areas?",No,Low,95
+"3. ""How does the human immune system respond to a viral infection like COVID-19?",No,Low,95
+"4. ""Discuss the impact of artificial intelligence on job markets in the next decade.",No,Low,82
+"5. ""Explain the steps involved in calculating the compound interest on an investment over multiple years.",Yes,Medium,80
+"2. ""Explain the process of photosynthesis in simple terms.",No,Low,100
+"1. ""Can you explain the difference between parallel and series circuits in electrical engineering?",No,Low,95
+"2. ""What are some strategies to effectively manage stress and improve mental health?",No,Low,95
+"3. ""How does carbon capture and storage technology work and what are its potential benefits and drawbacks?",No,Low,95
+"4. ""Can you provide a step-by-step guide on how to write a research paper for academic purposes?",No,Low,95
+"5. ""What is the role of supply and demand in determining stock prices, and how can this be used for investment decision making?",Yes,Medium,80
+"1. ""What are the potential long-term effects of a high-sodium diet?",No,Low,95
+"2. ""How does photosynthesis take place in plants and what factors can influence it?",No,Low,95
+"3. ""Explain the process of how wind turbines generate electricity.",No,Low,100
+"4. ""Provide a step-by-step guide on how to troubleshoot a slow computer.",No,Low,72
+"5. ""Compare and contrast the economic systems of capitalism, socialism, and communism.",No,Low,95
+"1. ""Compare and contrast the economic systems of capitalism and socialism.",No,Low,95
+"2. ""Explain how the greenhouse effect contributes to global warming.",No,Low,95
+"3. ""What are the key differences between quantum computing and classical computing?",No,Low,95
+"4. ""Provide a step-by-step guide on how to implement machine learning for predicting stock prices.",No,Low,95
+"5. ""Discuss the ethical implications of autonomous weapons systems in modern warfare.",No,Low,95
+"1. ""What are some effective strategies for reducing carbon footprint in daily life?",No,Low,95
+"2. ""Can you explain the difference between classical and quantum computing? Which one has more potential for future technology development?",Yes,Medium,75
+"3. ""How can I improve my time management skills to increase productivity at work?",No,Low,95
+"4. ""What are some key factors that influence a company's stock price and how can an investor use this information for making informed decisions?",Yes,Medium,80
+"5. ""Discuss the impact of artificial intelligence on job markets, focusing on both advantages and potential challenges.",No,Low,95
+"1. ""Can you explain the process of photosynthesis in plants and the importance of carbon dioxide in this process?",No,Low,95
+"2. ""What are the causes and effects of climate change, and how does it impact various ecosystems around the world?",No,Low,95
+"3. ""How can artificial intelligence be used to improve healthcare services, such as disease diagnosis and treatment plans?",No,Low,95
+"4. ""Can you provide a step-by-step guide on writing a business plan, including key components and their importance in attracting investors?",Yes,Medium,80
+"5. ""What are the benefits of adopting renewable energy sources like solar and wind power compared to traditional fossil fuel-based power generation?",No,Low,95
+"1. ""Can you explain the impact of inflation on the economy and how central banks manage it?",No,Low,95
+"2. ""What are some effective strategies for time management that can help increase productivity at work?",No,Low,95
+"3. ""How does photosynthesis convert carbon dioxide into oxygen, and what factors affect its efficiency?",No,Low,95
+"4. ""Can you provide a brief overview of the evolution of quantum computing and its potential implications for technology?",No,Low,95
+"5. ""What are some best practices to follow when developing a mobile app to ensure user engagement and satisfaction?",No,Low,95
+"2. ""Can you explain the difference between Type I and Type II errors in statistics?",No,Low,95
+"3. ""How does quantum computing differ from classical computing, and what are its potential applications?",No,Low,95
+"4. ""What are some tips for effectively managing remote teams, especially during times of crisis or uncertainty?",No,Low,95
+"5. ""Could you provide an overview of the impact of Brexit on trade relations between the UK and EU, focusing on changes in tariffs and regulations?",Yes,Medium,75
+"1. ""Compare the nutritional content of a medium-sized apple and a boiled egg.",No,Low,95
+"1. ""Can you explain the process of photosynthesis and its importance in plant life?",No,Low,95
+"2. ""What are some effective time management strategies to improve productivity?",No,Low,95
+"3. ""Describe the impact of climate change on global food security.",No,Low,95
+"4. ""How does the human immune system respond to viral infections, such as COVID-19?",No,Low,82
+"5. ""Discuss the role of renewable energy sources like wind and solar power in reducing carbon emissions.",No,Low,95
+"1. ""What are some effective strategies for reducing stress levels and improving mental wellbeing?",No,Low,95
+"2. ""How does the carbon footprint of different modes of transportation compare, and what can be done to reduce emissions in personal travel?",No,Low,95
+"3. ""What are some common misconceptions about artificial intelligence, and how do they impact its development and public perception?",No,Low,95
+"4. ""Can you explain the potential economic benefits and challenges associated with transitioning to a green energy economy?",No,Low,87
+"5. ""How does the current state of space exploration compare to past achievements, and what future milestones might we expect in the field?",Yes,Medium,80
+"1. ""What are some effective strategies for reducing energy consumption at home?",No,Low,95
+"2. ""How has the COVID-19 pandemic impacted global economies and what measures can governments take to mitigate these effects?",No,Low,78
+"3. ""Can you explain the process of photosynthesis in plants and its role in food production?",No,Low,100
+"4. ""What are some ethical considerations when it comes to artificial intelligence development and use?",No,Low,95
+"5. ""How has climate change affected weather patterns and what can be done to adapt to these changes?",No,Low,95
+"1. ""What are the potential consequences of a country's excessive reliance on fossil fuels for energy production?",No,Low,95
+"2. ""Can you explain the difference between artificial intelligence and machine learning in simple terms?",No,Low,100
+"4. ""What are some effective strategies for reducing stress and improving mental health?",No,Low,95
+"5. ""What are the key factors to consider when investing in stocks or bonds?",Yes,Medium,80
+"1. ""Compare the economic growth rates of the top five fastest-growing economies in 2021.",No,Low,95
+"1. ""What are the key factors to consider when making an investment in sustainable energy solutions?",Yes,Medium,80
+"2. ""Can you provide a step-by-step guide for setting up a homesteading system for off-grid living?",No,Low,95
+"3. ""How does machine learning differ from traditional artificial intelligence and what are its applications?",No,Low,95
+"4. ""What are the potential risks and benefits of implementing blockchain technology in supply chain management?",No,Low,72
+"5. ""Can you explain the process of creating a comprehensive disaster recovery plan for a small business?",No,Low,95
+"3. ""Provide a brief summary of the history and evolution of smartphones.",No,Low,95
+"4. ""Discuss the impact of climate change on global food production systems.",No,Low,95
+"5. ""Describe the key differences between classical and quantum computing, and their potential applications in the future.",No,Low,95
+"2. ""What are some effective strategies to manage stress and improve mental health?",No,Low,95
+"3. ""How can I optimize my study habits to improve academic performance?",No,Low,95
+"2. ""What are the steps to solve a quadratic equation by factoring?",No,Low,95
+"3. ""Explain how photosynthesis occurs in plants.",No,Low,100
+"4. ""Describe the process of creating a neural network in machine learning.",No,Low,95
+"5. ""Discuss the role of carbon sequestration in mitigating climate change.",No,Low,95
+"1. ""What are some effective strategies for managing stress and improving mental health?",No,Low,95
+"1. ""Describe the process of photosynthesis in plants, focusing on its steps, importance, and byproducts.",No,Low,95
+"2. ""What are some effective stress management techniques that balance physical, mental, and emotional wellbeing?",No,Low,95
+"3. ""Explain the factors that influence the taste of different types of coffee, including origin, roasting methods, and brewing processes.",No,Low,95
+"4. ""Discuss the impact of artificial intelligence on various industries, with examples of its applications and potential future developments.",No,Low,95
+"5. ""Compare and contrast the economic systems of capitalism and socialism, focusing on their underlying principles, advantages, disadvantages, and real-world examples.",No,Low,95
+"1. ""What is the difference between absolute and relative humidity in terms of their effects on human comfort?",No,Low,95
+"2. ""Can you explain how quantum tunneling works in a simple manner?",No,Low,95
+"3. ""What are some potential long-term consequences of increasing greenhouse gas emissions?",No,Low,95
+"4. ""How does the concept of marginal cost help businesses make optimal pricing decisions?",No,Low,95
+"5. ""Compare and contrast the theories of Charles Darwin and Gregor Mendel, and explain their contributions to modern genetics.",No,Low,95
+"1. ""What are the key steps to implement a successful content marketing strategy for a startup?",No,Low,95
+"2. ""Can you explain the difference between supervised and unsupervised machine learning algorithms, and provide examples of each?",No,Low,100
+"3. ""How can I optimize my website for search engines to improve organic traffic?",No,Low,95
+"4. ""What are some effective techniques to manage stress and maintain work-life balance in a high-pressure job?",No,Low,95
+"5. ""Can you suggest some data visualization tools that are ideal for both beginners and experts?",No,Low,95
+"1. ""What are some strategies for reducing energy consumption at home to save costs?",No,Low,95
+"2. ""Compare the nutritional benefits of a plant-based diet versus a meat-based diet.",No,Low,95
+"3. ""How can I optimize my study habits for better productivity and retention of information?",No,Low,95
+"4. ""What are some effective stress management techniques for busy professionals?",No,Low,95
+"5. ""Can you explain the role of artificial intelligence in modern finance, including investment and risk assessment?",Yes,Medium,80
+"2. ""What are some effective strategies for time management and productivity enhancement?",No,Low,95
+"3. ""How can I calculate the compound interest on an investment over a specified period with a given interest rate?",No,Low,95
+"4. ""Describe the role of quantum mechanics in modern technology such as MRI scanners, semiconductors, and lasers.",No,Low,82
+"5. ""What are some key factors to consider when planning a budget for a small business or startup?",No,Low,95
+"1. ""Can you explain the process of photosynthesis and its importance to life on Earth?",No,Low,95
+"1. ""What are some effective techniques to improve focus and productivity during work hours?",No,Low,95
+"2. ""Can you explain the benefits of incorporating a regular exercise routine into a busy schedule?",No,Low,95
+"3. ""How can I efficiently manage my time to balance personal life and professional responsibilities?",No,Low,95
+"4. ""What are the potential risks associated with consuming caffeine excessively?",No,Low,72
+"5. ""Can you suggest some practical strategies for reducing stress levels in daily life?",No,Low,95
+"1. ""What are some effective strategies for time management and productivity?",No,Low,95
+"2. ""Can you explain the process of creating a budget for personal financial planning?",No,Low,95
+"3. ""How can I optimize my home network for faster internet speeds and better performance?",No,Low,95
+"4. ""What are the steps to take when preparing a business plan for potential investors?",Yes,Medium,80
+"5. ""Could you provide insights on the benefits and drawbacks of remote work versus traditional office settings?",Yes,Medium,75
+"1. ""Explain the concept of photosynthesis and its role in plant life.",No,Low,95
+"2. ""What are the causes and effects of climate change?",No,Low,95
+"3. ""Can you provide a brief comparison between quantum computing and classical computing?",No,Low,95
+"4. ""Discuss the principles of Newton's laws of motion and their real-world applications.",Yes,High,80
+"5. ""Explain how the Krebs cycle generates energy in organisms and its importance in cellular respiration.",No,Low,100
+"1. ""In computer programming, what are some best practices for handling exceptions effectively?",No,Low,95
+"2. ""What factors should be considered when choosing a retirement plan?",No,Low,95
+"3. ""Explain the significance of the theory of relativity in modern physics.",No,Low,95
+"4. ""How can one optimize their study routine to maximize learning efficiency?",No,Low,68
+"5. ""What are some effective strategies for managing stress and maintaining mental health during challenging times?",No,Low,95
+"1. ""What are the key differences between quantum computing and classical computing?",No,Low,95
+"2. ""Can you explain how to calculate the compound interest of an investment over a specific period with a given rate and initial amount?",No,Low,95
+"3. ""What is the impact of climate change on global food security, and what measures can be taken to mitigate its effects?",No,Low,95
+"4. ""How does the process of photosynthesis work in plants, and what are some factors that affect it?",No,Low,95
+"5. ""Explain the principles of Newton's laws of motion, and provide examples illustrating each law.",Yes,High,80
+"1. ""Can you explain the difference between a protein and an amino acid?",No,Low,95
+"2. ""What are some effective strategies to improve time management skills?",No,Low,95
+"3. ""How does the process of photosynthesis take place in plants?",No,Low,95
+"4. ""Can you provide examples of ethical considerations when making business decisions?",No,Low,95
+"5. ""Explain how artificial intelligence and machine learning differ from each other.",No,Low,100
+"1. ""What are the key differences between machine learning and deep learning?",No,Low,95
+"2. ""Can you explain the concept of entropy in thermodynamics?",No,Low,95
+"3. ""How does a solar panel convert sunlight into electricity?",No,Low,95
+"4. ""Describe the role of nitrogen cycle in ecosystems.",No,Low,95
+"5. ""Compare and contrast the advantages and disadvantages of blockchain technology for supply chain management.",No,Low,95
+"1. ""What are some effective strategies to improve productivity and time management?",No,Low,95
+"2. ""Can you explain the impact of artificial intelligence on the job market in the next decade?",No,Low,95
+"3. ""How can I optimize my social media marketing strategy for better engagement and reach?",No,Low,95
+"4. ""What are some sustainable practices businesses should adopt to reduce their carbon footprint?",No,Low,95
+"5. ""Explain the differences between various types of machine learning algorithms and when to use them.",No,Low,95
+"1. ""What are some effective strategies for reducing carbon emissions in the transportation sector?",No,Low,95
+"2. ""Can you explain the difference between supervised and unsupervised machine learning algorithms?",No,Low,95
+"3. ""How can I create a budget plan that helps me save money for long-term financial goals?",No,Low,95
+"4. ""In the context of climate change, what are some measures being taken by governments worldwide to mitigate its effects?",No,Low,95
+"5. ""What are the advantages and disadvantages of implementing renewable energy sources in developing countries?",No,Low,95
+"1. ""What are the key differences between Type I and Type II errors in statistical hypothesis testing?",No,Low,95
+"2. ""Can you explain how the Heisenberg Uncertainty Principle applies to quantum mechanics?",No,Low,95
+"3. ""What factors influence the cost of solar panel installation for a residential property?",No,Low,95
+"4. ""How does the carbon footprint of different modes of transportation compare?",No,Low,95
+"5. ""Discuss the role of artificial intelligence in modern-day cybersecurity and its potential future developments.",No,Low,95
+"2. ""Can you explain the difference between AI and machine learning?",No,Low,100
+"3. ""How has the COVID-19 pandemic affected global supply chains and what can businesses do to adapt?",No,Low,72
+"4. ""What are the key factors to consider when creating a social media marketing strategy for a small business?",No,Low,95
+"5. ""What are some effective methods for stress management and productivity improvement in a remote work environment?",No,Low,95
+"1. ""Can you explain the process of photosynthesis and its importance for plant survival?",No,Low,95
+"2. ""What are some efficient strategies for reducing energy consumption at home?",No,Low,95
+"3. ""How can artificial intelligence be utilized to improve healthcare services and patient outcomes?",No,Low,95
+"4. ""Can you discuss the impact of climate change on global food production systems and suggest potential mitigation strategies?",No,Low,95
+"5. ""What are some effective time management techniques for students to balance academics, extracurricular activities, and personal life?",No,Low,95
+"1. ""Suggest a list of sustainable energy sources and their advantages over traditional fossil fuels.",No,Low,95
+"1. ""What are the current economic indicators for the global market as of today?",Yes,Medium,80
+"2. ""Compare and contrast the differences in energy consumption between renewable and non-renewable sources.",No,Low,95
+"3. ""Can you provide a step-by-step guide on how to implement machine learning algorithms in Python?",No,Low,95
+"4. ""Describe the impact of social media on mental health among teenagers, citing recent academic studies.",No,Low,82
+"5. ""Explain the concept of quantum entanglement and its potential applications in technology.",No,Low,95
+"3. ""How does the human immune system work and what can we do to strengthen it?",No,Low,95
+"4. ""Provide a brief overview of the history of artificial intelligence, including key milestones.",No,Low,95
+"5. ""Explain the concept of circular economy and its benefits for sustainable development.",No,Low,95
+"1. ""What are some effective stress management techniques for a busy professional?",No,Low,95
+"2. ""Can you explain the process of creating a budget plan for a small business?",No,Low,95
+"2. ""List five key components of a balanced diet for an average adult and their benefits.",No,Low,95
+"3. ""Discuss the role of the Electoral College in U.S. presidential elections, with examples from recent history.",No,Low,78
+"4. ""Compare and contrast the economic systems of capitalism and socialism, focusing on their core principles and advantages/disadvantages.",No,Low,95
+"5. ""Describe Einstein's Theory of Relativity, including his famous equations E=mc^2 and the implications for our understanding of space-time.",No,Low,95
+"1. ""Can you explain the difference between Bayesian and frequentist statistics?",No,Low,95
+"1. ""Compare the efficiency of two renewable energy sources: solar power and wind power, considering their cost, environmental impact, and scalability.",No,Low,95
+"2. ""Explain the concept of quantum entanglement, including its significance in quantum computing and communication.",No,Low,95
+"3. ""Discuss the potential impacts on global economies if automation and artificial intelligence surpass job creation, leading to widespread unemployment.",No,Low,95
+"4. ""Analyze the role of genetically modified organisms (GMOs) in agriculture, discussing their advantages, disadvantages, and ethical considerations.",No,Low,95
+"5. ""Compare and contrast the political ideologies of liberalism and conservatism within the United States, focusing on economic, social, and foreign policy perspectives.",No,Low,95
+"1. ""Compare and contrast the differences in energy production between solar panels and wind turbines.",No,Low,95
+"2. ""What are the potential consequences of a rapid transition to electric vehicles in terms of infrastructure, economy, and environment?",No,Low,95
+"3. ""Can you explain how machine learning algorithms are used in image recognition systems?",No,Low,95
+"4. ""Analyze the impact of climate change on global crop production over the past 50 years.",No,Low,87
+"5. ""Discuss the role of blockchain technology in improving supply chain transparency and reducing counterfeit goods.",No,Low,95
+"1. ""What are some effective strategies to improve time management skills?",No,Low,95
+"2. ""Can you explain the difference between absolute and relative humidity in weather forecasting?",No,Low,95
+"3. ""How does the process of photosynthesis contribute to oxygen production on Earth?",No,Low,95
+"4. ""What are some key differences between traditional and agile project management methodologies?",No,Low,95
+"5. ""Can you provide an example of how artificial intelligence is being used in healthcare?",No,Low,95
+"3. ""Provide a brief summary of the theory of relativity, including Einstein's famous equation E=mc^2.",No,Low,95
+"4. ""How does the Internet function at a high level? Can you describe key components such as IP addresses, DNS, and HTTP?",No,Low,95
+"5. ""What are some best practices for creating an effective study schedule to maximize productivity and retention of information?",No,Low,95
+"1. ""What are the most effective strategies for reducing energy consumption at home?",No,Low,95
+"2. ""Can you explain how artificial intelligence is being applied in healthcare industry today?",Yes,Medium,80
+"1. ""What are the current best practices for optimizing a website for search engines in 2023?",Yes,Medium,80
+"2. ""Can you explain how to calculate the compound interest formula with examples?",No,Low,95
+"3. ""What is the difference between absolute and relative humidity, and how do they impact weather patterns?",No,Low,95
+"4. ""Provide advice on effective time management strategies for busy professionals.",No,Low,95
+"5. ""Discuss the potential environmental impacts of increasing use of electric vehicles compared to traditional internal combustion engine vehicles.",No,Low,95
+"1. ""Can you explain the process of photosynthesis in plants and its significance for life on Earth?",No,Low,95
+"2. ""What are some effective strategies to reduce plastic waste and promote a more sustainable lifestyle?",No,Low,95
+"3. ""How can I calculate the compound interest on an investment over a specified period of time?",No,Low,95
+"4. ""Can you provide a brief summary of the Theory of General Relativity by Einstein and its implications in physics?",No,Low,95
+"5. ""What are some potential solutions for managing traffic congestion in urban areas, and how do they balance efficiency and environmental impact?",No,Low,95
