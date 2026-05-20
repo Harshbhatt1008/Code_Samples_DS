@@ -18,6 +18,7 @@
 [![Python](https://img.shields.io/badge/Python-3.10%2B-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://python.org)
 [![PyTorch](https://img.shields.io/badge/PyTorch-2.0%2B-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)](https://pytorch.org)
 [![HuggingFace](https://img.shields.io/badge/🤗_Transformers-DeBERTa--v3-FFD21E?style=for-the-badge)](https://huggingface.co/microsoft/deberta-v3-base)
+[![Dataset](https://img.shields.io/badge/🤗_Dataset-108k_Prompts-FFD21E?style=for-the-badge)](https://huggingface.co/datasets/hb0810/Generalized_Hallucination_Risk_Level_100k_Prompts)
 [![Accuracy](https://img.shields.io/badge/Accuracy-81.3%25-2ea44f?style=for-the-badge)]()
 [![Latency](https://img.shields.io/badge/Latency-12ms-blue?style=for-the-badge)]()
 [![License](https://img.shields.io/badge/License-MIT-purple?style=for-the-badge)](LICENSE)
