@@ -1,14 +1,14 @@
 """
 train_classifier.py
 Trains a transformer-based classifier to predict hallucination risk (Low/Medium/High)
-from prompt text alone. Outputs a saved model in safetensors format.
+from prompt text alone. Outputs a saved model in safetensors format plus logits
+and true labels as .npy files for downstream entropy analysis.
 """
 
 import os
 import numpy as np
 import pandas as pd
 import torch
-from dataclasses import dataclass
 from pathlib import Path
 from sklearn.model_selection import train_test_split
 from sklearn.metrics import accuracy_score, f1_score, classification_report
@@ -94,12 +94,12 @@ def main():
         learning_rate=2e-5,
         weight_decay=0.01,
         warmup_ratio=0.1,
-        logging_dir=os.path.join(OUTPUT_DIR, "logs"),
-        logging_steps=50,
-        do_eval=True,
+        evaluation_strategy="epoch",   # needed for load_best_model_at_end
         save_strategy="epoch",
         load_best_model_at_end=True,
         metric_for_best_model="f1",
+        logging_dir=os.path.join(OUTPUT_DIR, "logs"),
+        logging_steps=50,
     )
 
     trainer = Trainer(
@@ -114,10 +114,12 @@ def main():
     trainer.train()
 
     # detailed per-class breakdown on val set
-    preds = trainer.predict(val_dataset)
-    pred_labels = np.argmax(preds.predictions, axis=1)
-    print("\n", classification_report(preds.label_ids, pred_labels,
-                                      target_names=["Low", "Medium", "High"], digits=4))
+    preds_output = trainer.predict(val_dataset)
+    pred_labels = np.argmax(preds_output.predictions, axis=1)
+    print("\n", classification_report(
+        preds_output.label_ids, pred_labels,
+        target_names=["Low", "Medium", "High"], digits=4
+    ))
 
     # save model — safetensors format to avoid the older .bin overhead
     Path(OUTPUT_DIR).mkdir(parents=True, exist_ok=True)
@@ -128,7 +130,12 @@ def main():
     if os.path.exists(old_bin):
         os.remove(old_bin)
 
-    print(f"Model saved to {OUTPUT_DIR}")
+    # save logits + true labels so entropy_analysis.py can run without re-loading the model
+    np.save(os.path.join(OUTPUT_DIR, "logits.npy"), preds_output.predictions)
+    np.save(os.path.join(OUTPUT_DIR, "true_labels.npy"), preds_output.label_ids)
+    print(f"Logits and labels saved to {OUTPUT_DIR}/")
+
+    print(f"Done. Model saved to {OUTPUT_DIR}")
 
 
 if __name__ == "__main__":
