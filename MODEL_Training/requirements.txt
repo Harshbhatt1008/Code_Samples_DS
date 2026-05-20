@@ -1,0 +1,9 @@
+torch
+transformers
+pandas
+scikit-learn
+numpy
+tqdm
+safetensors
+fastapi
+uvicorn
