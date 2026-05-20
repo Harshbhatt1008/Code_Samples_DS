@@ -20,7 +20,8 @@ from transformers import (
 # -------------------
 # 1. Config
 # -------------------
-MODEL_NAME = "distilroberta-base"   # you can change this
+# Using distilroberta-base for lightweight demo; paper experiments used deberta-v3-base
+MODEL_NAME = "distilroberta-base"
 DATA_PATH = "data/prompts.csv"
 OUTPUT_DIR = "models/hallucination_binary"
 MAX_LENGTH = 128                    # max tokens per prompt
